@@ -1,0 +1,6 @@
+transformers
+huggingface_hub
+sentencepiece
+bitsandbytes==0.43.1
+accelerate==0.29.3
+peft --upgrade
